@@ -1,0 +1,4 @@
+#Sun Feb 06 16:16:33 BRT 2022
+base.0=/home/flavio/Datkweek5/vakinha_burger_mobile/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
